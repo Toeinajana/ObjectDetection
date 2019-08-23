@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ffbed1d-82dc-4f6e-a460-059d5de62ee0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test_images/image3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_images/image4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_images2/image1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_images2/image2.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/object_detection-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/object_detection-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/object_detection.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/object_detection.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/label_map_util.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/label_map_util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection_tutorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/object_detection_tutorial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images2/image2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/test_images2/image2.jpg" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,6 +25,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
