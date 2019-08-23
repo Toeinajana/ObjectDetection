@@ -39,11 +39,11 @@ brew install python3
 
 ### 3 Install Pillow, Jupyter notebook, Matplotlib, lxml and Cython
 ``` bash
-npm install pillow
-npm install jupyter
-npm install matplotlib
-npm install lxml
-npm install Cython
+pip install pillow
+pip install jupyter
+pip install matplotlib
+pip install lxml
+pip install Cython
 ```
 
 ### 4 Install Protocol buffer via Brew 
