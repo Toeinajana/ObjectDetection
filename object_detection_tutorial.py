@@ -8,7 +8,7 @@
 
 # In[12]:
 
-
+from google.cloud import texttospeech
 import numpy as np
 import os
 import six.moves.urllib as urllib
@@ -24,6 +24,7 @@ from io import StringIO
 from matplotlib import pyplot as plt
 from PIL import Image
 import cv2
+
 
 # This is needed since the notebook is stored in the object_detection folder.
 sys.path.append("..")
