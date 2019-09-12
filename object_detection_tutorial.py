@@ -219,6 +219,8 @@ for image_path in TEST_IMAGE_PATHS:
   plt.imshow(image_np)
 
 
+
+
 # In[ ]:
 
 

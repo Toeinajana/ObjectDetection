@@ -2,11 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ffbed1d-82dc-4f6e-a460-059d5de62ee0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/object_detection_webcam-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/object_detection_webcam.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/get label-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/print class-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/get label.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/print class.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/object_detection_tutorial-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/object_detection_tutorial-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/object_detection.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection_tutorial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/object_detection_tutorial.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/object_detection_tutorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/object_detection_tutorial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/object_detection.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/object_detection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection_webcam.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/object_detection_webcam.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/visualization_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/visualization_utils.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

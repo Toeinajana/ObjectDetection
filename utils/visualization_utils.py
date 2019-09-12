@@ -38,8 +38,9 @@ from six.moves import range
 from six.moves import zip
 import tensorflow as tf
 
-from object_detection.core import standard_fields as fields
-from object_detection.utils import shape_utils
+from core import standard_fields as fields
+from utils import shape_utils
+from google.cloud import texttospeech
 
 _TITLE_LEFT_MARGIN = 10
 _TITLE_TOP_MARGIN = 10
@@ -779,6 +780,27 @@ def visualize_boxes_and_labels_on_image_array(
           if not agnostic_mode:
             if classes[i] in six.viewkeys(category_index):
               class_name = category_index[classes[i]]['name']
+              # print class name
+              print(class_name)
+              # google text to speech
+              # constr = str(class_name)
+              # text = str(class_name)
+              # client = texttospeech.TextToSpeechClient()
+              # synthesis_input = texttospeech.types.SynthesisInput (text)
+              # voice = texttospeech.types.VoiceSelectionParams(
+              #     language_code='en-US',
+              #     name='en-US-Wavenet-C',
+              #     ssml_gender=texttospeech.enums.SsmlVoiceGender.FEMALE)
+              #
+              # audio_config = texttospeech.types.AudioConfig(
+              #     audio_encoding=texttospeech.enums.AudioEncoding.MP3)
+              # response = client.synthesize_speech(synthesis_input, voice, audio_config)
+              # with open('output.mp3', 'wb') as out:
+              #     # Write the response to the output file.
+              #     out.write(response.audio_content)
+              #     print('Audio content written to file "output.mp3"')
+
+
             else:
               class_name = 'N/A'
             display_str = str(class_name)
